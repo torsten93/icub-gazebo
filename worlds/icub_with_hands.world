@@ -21,7 +21,7 @@
     <!-- iCub -->
   <model name="iCub_fixed">
   	<include>
-     		<uri>model://icub_fixed</uri>
+        <uri>model://icub_with_hands</uri>
    	</include>
 
        <plugin name="world_interface" filename="libgazebo_yarp_worldinterface.so">
@@ -29,6 +29,6 @@
        </plugin>
 
   </model>
-   
+
   </world>
 </sdf>
