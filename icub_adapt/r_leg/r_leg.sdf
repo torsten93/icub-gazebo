@@ -20,7 +20,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/icub_simple_collision_r_hip_1.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/icub_simple_collision_r_hip_1.dae</uri>
                     </mesh>
                 </geometry>
             </collision>
@@ -29,7 +29,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/icub_r_hip_1.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/icub_r_hip_1.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -73,7 +73,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/icub_simple_collision_r_hip_2.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/icub_simple_collision_r_hip_2.dae</uri>
                     </mesh>
                 </geometry>
             </collision>
@@ -82,7 +82,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/icub_r_hip_2.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/icub_r_hip_2.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -144,7 +144,7 @@
                 <update_rate>100</update_rate>
                 <pose>0 0 0 0 0 0</pose>
                 <plugin name='right_leg_ft_plugin' filename='libgazebo_yarp_forcetorque.so'>
-                    <yarpConfigurationFile>model://icub/conf/FT/gazebo_icub_right_leg_ft.ini</yarpConfigurationFile>
+                    <yarpConfigurationFile>model://icub_adapt/conf/FT/gazebo_icub_right_leg_ft.ini</yarpConfigurationFile>
                 </plugin>
             </sensor>
         </joint>
@@ -167,7 +167,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/icub_simple_collision_r_thigh.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/icub_simple_collision_r_thigh.dae</uri>
                     </mesh>
                 </geometry>
             </collision>
@@ -176,7 +176,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/icub_r_thigh.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/icub_r_thigh.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -220,7 +220,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/icub_simple_collision_r_shank.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/icub_simple_collision_r_shank.dae</uri>
                     </mesh>
                 </geometry>
             </collision>
@@ -229,7 +229,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/icub_r_shank.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/icub_r_shank.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -273,7 +273,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/icub_simple_collision_r_ankle_1.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/icub_simple_collision_r_ankle_1.dae</uri>
                     </mesh>
                 </geometry>
             </collision>
@@ -282,7 +282,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/icub_r_ankle_1.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/icub_r_ankle_1.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -398,7 +398,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/icub_r_foot.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/icub_r_foot.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -425,13 +425,13 @@
                 <update_rate>100</update_rate>
                 <pose>0 0 0 0 0 0</pose>
                 <plugin name='right_foot_ft_plugin' filename='libgazebo_yarp_forcetorque.so'>
-                    <yarpConfigurationFile>model://icub/conf/FT/gazebo_icub_right_foot_ft.ini</yarpConfigurationFile>
+                    <yarpConfigurationFile>model://icub_adapt/conf/FT/gazebo_icub_right_foot_ft.ini</yarpConfigurationFile>
                 </plugin>
             </sensor>
         </joint>
 
         <plugin name='controlboard_right_leg' filename='libgazebo_yarp_controlboard.so'>
-            <yarpConfigurationFile>model://icub/conf/gazebo_icub_right_leg.ini</yarpConfigurationFile>
+            <yarpConfigurationFile>model://icub_adapt/conf/gazebo_icub_right_leg.ini</yarpConfigurationFile>
         </plugin>
     </model>
 </sdf>

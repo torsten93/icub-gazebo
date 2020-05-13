@@ -19,7 +19,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/l_hand/l_palm.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/l_hand/l_palm.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -28,7 +28,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/l_hand/l_palm.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/l_hand/l_palm.dae</uri>
                     </mesh>
                 </geometry>
                 <max_contacts>4</max_contacts>
@@ -63,7 +63,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/l_hand/l_indexbase.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/l_hand/l_indexbase.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -72,7 +72,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/l_hand/l_indexbase.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/l_hand/l_indexbase.dae</uri>
                     </mesh>
                 </geometry>
                 <max_contacts>4</max_contacts>
@@ -107,7 +107,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/l_hand/l_ail0.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/l_hand/l_ail0.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -116,7 +116,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/l_hand/l_ail0.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/l_hand/l_ail0.dae</uri>
                     </mesh>
                 </geometry>
                 <max_contacts>4</max_contacts>
@@ -151,7 +151,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/l_hand/l_littlebase.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/l_hand/l_littlebase.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -160,7 +160,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/l_hand/l_littlebase.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/l_hand/l_littlebase.dae</uri>
                     </mesh>
                 </geometry>
                 <max_contacts>4</max_contacts>
@@ -195,7 +195,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/l_hand/l_lil0.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/l_hand/l_lil0.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -204,7 +204,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/l_hand/l_lil0.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/l_hand/l_lil0.dae</uri>
                     </mesh>
                 </geometry>
                 <max_contacts>4</max_contacts>
@@ -239,7 +239,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/l_hand/l_middlebase.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/l_hand/l_middlebase.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -248,7 +248,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/l_hand/l_middlebase.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/l_hand/l_middlebase.dae</uri>
                     </mesh>
                 </geometry>
                 <max_contacts>4</max_contacts>
@@ -283,7 +283,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/l_hand/l_ml0.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/l_hand/l_ml0.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -292,7 +292,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/l_hand/l_ml0.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/l_hand/l_ml0.dae</uri>
                     </mesh>
                 </geometry>
                 <max_contacts>4</max_contacts>
@@ -327,7 +327,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/l_hand/l_ringbase.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/l_hand/l_ringbase.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -336,7 +336,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/l_hand/l_ringbase.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/l_hand/l_ringbase.dae</uri>
                     </mesh>
                 </geometry>
                 <max_contacts>4</max_contacts>
@@ -371,7 +371,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/l_hand/l_ril0.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/l_hand/l_ril0.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -380,7 +380,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/l_hand/l_ril0.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/l_hand/l_ril0.dae</uri>
                     </mesh>
                 </geometry>
                 <max_contacts>4</max_contacts>
@@ -475,7 +475,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/l_hand/l_ail1.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/l_hand/l_ail1.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -484,7 +484,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/l_hand/l_ail1.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/l_hand/l_ail1.dae</uri>
                     </mesh>
                 </geometry>
                 <max_contacts>1</max_contacts>
@@ -565,7 +565,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/l_hand/l_ail2.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/l_hand/l_ail2.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -574,7 +574,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/l_hand/l_ail2.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/l_hand/l_ail2.dae</uri>
                     </mesh>
                 </geometry>
                 <max_contacts>1</max_contacts>
@@ -655,7 +655,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/l_hand/l_ail3.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/l_hand/l_ail3.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -664,7 +664,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/l_hand/l_ail3.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/l_hand/l_ail3.dae</uri>
                     </mesh>
                 </geometry>
                 <max_contacts>1</max_contacts>
@@ -790,7 +790,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/l_hand/l_lil1.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/l_hand/l_lil1.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -799,7 +799,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/l_hand/l_lil1.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/l_hand/l_lil1.dae</uri>
                     </mesh>
                 </geometry>
                 <max_contacts>1</max_contacts>
@@ -880,7 +880,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/l_hand/l_lil2.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/l_hand/l_lil2.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -889,7 +889,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/l_hand/l_lil2.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/l_hand/l_lil2.dae</uri>
                     </mesh>
                 </geometry>
                 <max_contacts>1</max_contacts>
@@ -970,7 +970,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/l_hand/l_lil3.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/l_hand/l_lil3.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -979,7 +979,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/l_hand/l_lil3.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/l_hand/l_lil3.dae</uri>
                     </mesh>
                 </geometry>
                 <max_contacts>1</max_contacts>
@@ -1105,7 +1105,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/l_hand/l_ml1.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/l_hand/l_ml1.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -1114,7 +1114,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/l_hand/l_ml1.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/l_hand/l_ml1.dae</uri>
                     </mesh>
                 </geometry>
                 <max_contacts>1</max_contacts>
@@ -1195,7 +1195,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/l_hand/l_ml2.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/l_hand/l_ml2.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -1204,7 +1204,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/l_hand/l_ml2.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/l_hand/l_ml2.dae</uri>
                     </mesh>
                 </geometry>
                 <max_contacts>1</max_contacts>
@@ -1285,7 +1285,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/l_hand/l_ml3.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/l_hand/l_ml3.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -1294,7 +1294,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/l_hand/l_ml3.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/l_hand/l_ml3.dae</uri>
                     </mesh>
                 </geometry>
                 <max_contacts>1</max_contacts>
@@ -1420,7 +1420,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/l_hand/l_ril1.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/l_hand/l_ril1.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -1429,7 +1429,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/l_hand/l_ril1.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/l_hand/l_ril1.dae</uri>
                     </mesh>
                 </geometry>
                 <max_contacts>1</max_contacts>
@@ -1510,7 +1510,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/l_hand/l_ril2.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/l_hand/l_ril2.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -1519,7 +1519,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/l_hand/l_ril2.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/l_hand/l_ril2.dae</uri>
                     </mesh>
                 </geometry>
                 <max_contacts>1</max_contacts>
@@ -1600,7 +1600,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/l_hand/l_ril3.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/l_hand/l_ril3.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -1609,7 +1609,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/l_hand/l_ril3.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/l_hand/l_ril3.dae</uri>
                     </mesh>
                 </geometry>
                 <max_contacts>1</max_contacts>
@@ -1690,7 +1690,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/l_hand/l_tl0.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/l_hand/l_tl0.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -1699,7 +1699,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/l_hand/l_tl0.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/l_hand/l_tl0.dae</uri>
                     </mesh>
                 </geometry>
                 <max_contacts>1</max_contacts>
@@ -1734,7 +1734,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/l_hand/l_tl1.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/l_hand/l_tl1.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -1743,7 +1743,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/l_hand/l_tl1.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/l_hand/l_tl1.dae</uri>
                     </mesh>
                 </geometry>
                 <max_contacts>1</max_contacts>
@@ -1824,7 +1824,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/l_hand/l_tl2.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/l_hand/l_tl2.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -1833,7 +1833,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/l_hand/l_tl2.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/l_hand/l_tl2.dae</uri>
                     </mesh>
                 </geometry>
                 <max_contacts>1</max_contacts>
@@ -1914,7 +1914,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/l_hand/l_tl3.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/l_hand/l_tl3.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -1923,7 +1923,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/l_hand/l_tl3.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/l_hand/l_tl3.dae</uri>
                     </mesh>
                 </geometry>
                 <max_contacts>1</max_contacts>
@@ -2004,7 +2004,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/visual/l_hand/l_tl4.dae</uri>
+                        <uri>model://icub_adapt/meshes/visual/l_hand/l_tl4.dae</uri>
                     </mesh>
                 </geometry>
             </visual>
@@ -2013,7 +2013,7 @@
                 <geometry>
                     <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://icub/meshes/collision/l_hand/l_tl4.dae</uri>
+                        <uri>model://icub_adapt/meshes/collision/l_hand/l_tl4.dae</uri>
                     </mesh>
                 </geometry>
                 <max_contacts>1</max_contacts>
@@ -2076,22 +2076,22 @@
         </joint>
 
         <plugin name='controlboard_left_hand_thumb' filename='libgazebo_yarp_controlboard.so'>
-            <yarpConfigurationFile>model://icub/conf/gazebo_icub_left_hand_thumb.ini</yarpConfigurationFile>
+            <yarpConfigurationFile>model://icub_adapt/conf/gazebo_icub_left_hand_thumb.ini</yarpConfigurationFile>
         </plugin>
         <plugin name='controlboard_left_hand_index' filename='libgazebo_yarp_controlboard.so'>
-            <yarpConfigurationFile>model://icub/conf/gazebo_icub_left_hand_index.ini</yarpConfigurationFile>
+            <yarpConfigurationFile>model://icub_adapt/conf/gazebo_icub_left_hand_index.ini</yarpConfigurationFile>
         </plugin>
         <plugin name='controlboard_left_hand_middle' filename='libgazebo_yarp_controlboard.so'>
-            <yarpConfigurationFile>model://icub/conf/gazebo_icub_left_hand_middle.ini</yarpConfigurationFile>
+            <yarpConfigurationFile>model://icub_adapt/conf/gazebo_icub_left_hand_middle.ini</yarpConfigurationFile>
         </plugin>
         <plugin name='controlboard_left_hand_pinky' filename='libgazebo_yarp_controlboard.so'>
-            <yarpConfigurationFile>model://icub/conf/gazebo_icub_left_hand_pinky.ini</yarpConfigurationFile>
+            <yarpConfigurationFile>model://icub_adapt/conf/gazebo_icub_left_hand_pinky.ini</yarpConfigurationFile>
         </plugin>
         <plugin name='controlboard_left_hand_finger' filename='libgazebo_yarp_controlboard.so'>
-            <yarpConfigurationFile>model://icub/conf/gazebo_icub_left_hand_finger.ini</yarpConfigurationFile>
+            <yarpConfigurationFile>model://icub_adapt/conf/gazebo_icub_left_hand_finger.ini</yarpConfigurationFile>
         </plugin>
         <plugin name='controlboard_left_hand' filename='libgazebo_yarp_controlboard.so'>
-            <yarpConfigurationFile>model://icub/conf/gazebo_icub_left_hand.ini</yarpConfigurationFile>
+            <yarpConfigurationFile>model://icub_adapt/conf/gazebo_icub_left_hand.ini</yarpConfigurationFile>
         </plugin>
     </model>
 </sdf>
