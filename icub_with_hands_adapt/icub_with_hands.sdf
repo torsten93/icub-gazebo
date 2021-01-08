@@ -778,7 +778,7 @@
         <camera>
           <horizontal_fov>1.5708</horizontal_fov>
           <clip>
-            <near>0.1</near>
+            <near>0.05</near>
             <far>100</far>
           </clip>
         </camera>
@@ -819,7 +819,7 @@
         <camera>
           <horizontal_fov>1.5708</horizontal_fov>
           <clip>
-            <near>0.1</near>
+            <near>0.05</near>
             <far>100</far>
           </clip>
         </camera>

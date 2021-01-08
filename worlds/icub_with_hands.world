@@ -19,7 +19,7 @@
     </include>
 
     <!-- iCub -->
-  <model name="iCub_fixed">
+  <model name="iCub_with_hands">
   	<include>
         <uri>model://icub_with_hands_adapt</uri>
    	</include>
